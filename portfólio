@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    body{
+        background-color: black;
+    }
+    h1{
+        color: aliceblue;
+        font-family: 'Franklin Gothic Medium';
+    }
+    main{
+        color: rgb(180, 210, 211);
+        font-size: 32px;
+        font-weight: bold;
+        font-family: 'Franklin Gothic Medium';
+    }
+    p{
+        color: aliceblue;
+        font-size: 16px;
+        font-family: arial;
+    }
+
+    </style>
+</head>
+<body>
+    <h1>Portfólio</h1>
+    <main> Deixe sua página com a sua cara!</main>
+    <p>Olá! Sou a Gleiciane Fernandes, Designer e estudante de Sistema de Informação. 
+        Gosto de criar artes criativas e elevar o nome das empresas no mercado.
+    </p>
+    <button>Instagram</button> 
+    <img src="3F2A05BE-D4A5-46FE-A53F-B6092FCF6F3D.jpg" alt="foto de Perfil" height="350" width="250"> 
+    
+</body>
+</html>
